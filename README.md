@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.svg" alt="Kimia Qhassemloo" width="100%"/>
+  <img src="header.svg" alt="Kimia Ghasemloo" width="100%"/>
 </div>
 
 <div align="center">
